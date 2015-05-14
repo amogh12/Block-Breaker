@@ -1,0 +1,17 @@
+D:\unity\Block Breaker\bin\Phone 8.1\x86\Master\Assembly-CSharp-firstpass.dll
+D:\unity\Block Breaker\bin\Phone 8.1\x86\Master\Assembly-CSharp-firstpass.pdb
+D:\unity\Block Breaker\bin\Phone 8.1\x86\Master\Assembly-CSharp-firstpass.pri
+D:\unity\Block Breaker\obj\Phone 8.1\x86\Master\x86\Master\Assembly-CSharp-firstpass-windows-phone-8.1.csprojResolveAssemblyReference.cache
+D:\unity\Block Breaker\obj\Phone 8.1\x86\Master\x86\Master\Assembly-CSharp-firstpass.dll
+D:\unity\Block Breaker\obj\Phone 8.1\x86\Master\x86\Master\Assembly-CSharp-firstpass.pdb
+D:\unity\Block Breaker\obj\Phone 8.1\x86\Master\x86\Master\priconfig.xml
+D:\unity\Block Breaker\obj\Phone 8.1\x86\Master\x86\Master\priconfig.xml.intermediate
+D:\unity\Block Breaker\obj\Phone 8.1\x86\Master\x86\Master\layout.resfiles
+D:\unity\Block Breaker\obj\Phone 8.1\x86\Master\x86\Master\layout.resfiles.intermediate
+D:\unity\Block Breaker\obj\Phone 8.1\x86\Master\x86\Master\resources.resfiles
+D:\unity\Block Breaker\obj\Phone 8.1\x86\Master\x86\Master\resources.resfiles.intermediate
+D:\unity\Block Breaker\obj\Phone 8.1\x86\Master\x86\Master\pri.resfiles
+D:\unity\Block Breaker\obj\Phone 8.1\x86\Master\x86\Master\pri.resfiles.intermediate
+D:\unity\Block Breaker\obj\Phone 8.1\x86\Master\x86\Master\qualifiers.txt
+D:\unity\Block Breaker\obj\Phone 8.1\x86\Master\x86\Master\qualifiers.txt.intermediate
+D:\unity\Block Breaker\obj\Phone 8.1\x86\Master\x86\Master\MultipleQualifiersPerDimensionFound.txt

@@ -1,0 +1,16 @@
+D:\unity\Block Breaker\bin\Store 8.1\x86\Debug\Assembly-CSharp-firstpass.dll
+D:\unity\Block Breaker\bin\Store 8.1\x86\Debug\Assembly-CSharp-firstpass.pdb
+D:\unity\Block Breaker\bin\Store 8.1\x86\Debug\Assembly-CSharp-firstpass.pri
+D:\unity\Block Breaker\obj\Store 8.1\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.dll
+D:\unity\Block Breaker\obj\Store 8.1\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.pdb
+D:\unity\Block Breaker\obj\Store 8.1\x86\Debug\x86\Debug\priconfig.xml
+D:\unity\Block Breaker\obj\Store 8.1\x86\Debug\x86\Debug\priconfig.xml.intermediate
+D:\unity\Block Breaker\obj\Store 8.1\x86\Debug\x86\Debug\layout.resfiles
+D:\unity\Block Breaker\obj\Store 8.1\x86\Debug\x86\Debug\layout.resfiles.intermediate
+D:\unity\Block Breaker\obj\Store 8.1\x86\Debug\x86\Debug\resources.resfiles
+D:\unity\Block Breaker\obj\Store 8.1\x86\Debug\x86\Debug\resources.resfiles.intermediate
+D:\unity\Block Breaker\obj\Store 8.1\x86\Debug\x86\Debug\pri.resfiles
+D:\unity\Block Breaker\obj\Store 8.1\x86\Debug\x86\Debug\pri.resfiles.intermediate
+D:\unity\Block Breaker\obj\Store 8.1\x86\Debug\x86\Debug\qualifiers.txt
+D:\unity\Block Breaker\obj\Store 8.1\x86\Debug\x86\Debug\qualifiers.txt.intermediate
+D:\unity\Block Breaker\obj\Store 8.1\x86\Debug\x86\Debug\MultipleQualifiersPerDimensionFound.txt

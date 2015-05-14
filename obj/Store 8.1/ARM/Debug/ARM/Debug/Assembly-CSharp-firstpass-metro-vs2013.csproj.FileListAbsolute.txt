@@ -1,0 +1,17 @@
+D:\unity\Block Breaker\bin\Store 8.1\ARM\Debug\Assembly-CSharp-firstpass.dll
+D:\unity\Block Breaker\bin\Store 8.1\ARM\Debug\Assembly-CSharp-firstpass.pdb
+D:\unity\Block Breaker\bin\Store 8.1\ARM\Debug\Assembly-CSharp-firstpass.pri
+D:\unity\Block Breaker\obj\Store 8.1\ARM\Debug\ARM\Debug\Assembly-CSharp-firstpass.dll
+D:\unity\Block Breaker\obj\Store 8.1\ARM\Debug\ARM\Debug\Assembly-CSharp-firstpass.pdb
+D:\unity\Block Breaker\obj\Store 8.1\ARM\Debug\ARM\Debug\priconfig.xml
+D:\unity\Block Breaker\obj\Store 8.1\ARM\Debug\ARM\Debug\priconfig.xml.intermediate
+D:\unity\Block Breaker\obj\Store 8.1\ARM\Debug\ARM\Debug\layout.resfiles
+D:\unity\Block Breaker\obj\Store 8.1\ARM\Debug\ARM\Debug\layout.resfiles.intermediate
+D:\unity\Block Breaker\obj\Store 8.1\ARM\Debug\ARM\Debug\resources.resfiles
+D:\unity\Block Breaker\obj\Store 8.1\ARM\Debug\ARM\Debug\resources.resfiles.intermediate
+D:\unity\Block Breaker\obj\Store 8.1\ARM\Debug\ARM\Debug\pri.resfiles
+D:\unity\Block Breaker\obj\Store 8.1\ARM\Debug\ARM\Debug\pri.resfiles.intermediate
+D:\unity\Block Breaker\obj\Store 8.1\ARM\Debug\ARM\Debug\qualifiers.txt
+D:\unity\Block Breaker\obj\Store 8.1\ARM\Debug\ARM\Debug\qualifiers.txt.intermediate
+D:\unity\Block Breaker\obj\Store 8.1\ARM\Debug\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\unity\Block Breaker\obj\Store 8.1\ARM\Debug\ARM\Debug\Assembly-CSharp-firstpass-metro-vs2013.csprojResolveAssemblyReference.cache
