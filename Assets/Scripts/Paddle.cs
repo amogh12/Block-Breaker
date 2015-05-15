@@ -22,9 +22,9 @@ public class Paddle : MonoBehaviour {
 	}
 	
 	void AutoPlay(){
-		Vector3 paddalePos = new Vector3(0.5f, this.transform.position.y, 0f);
+		Vector3 paddalePos = new Vector3(1.33f, this.transform.position.y, 0f);
 		Vector3 ballPos = ball.transform.position;		
-		paddalePos.x = Mathf.Clamp(ballPos.x, 0.5f, 15.5f);
+		paddalePos.x = Mathf.Clamp(ballPos.x, 1.33f, 14.66f);
 		this.transform.position = paddalePos;
 	}
 	
@@ -32,7 +32,7 @@ public class Paddle : MonoBehaviour {
 		Vector3 paddalePos = new Vector3(0.5f, this.transform.position.y, 0f);
 		//this gives the relative position
 		float mousePosInBlocks = Input.mousePosition.x / Screen.width * 16;
-		paddalePos.x = Mathf.Clamp(mousePosInBlocks, 0.5f, 15.5f);
+		paddalePos.x = Mathf.Clamp(mousePosInBlocks, 1.33f, 14.66f);
 		this.transform.position = paddalePos;
 	}
 }
