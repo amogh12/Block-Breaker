@@ -3,6 +3,9 @@ using System.Collections;
 
 public class LevelManager : MonoBehaviour {
 
+	bool paused = false;
+	bool mute = false;
+	
 	public void LoadLevel(string name){
 		Debug.Log("Level load requested for: "+name);
 		Brick.breakableCount = 0;
@@ -22,6 +25,26 @@ public class LevelManager : MonoBehaviour {
 	public void BrickDestroyed() {
 		if(Brick.breakableCount <=0 ) {
 			LoadNextLevel();
+		}
+	}
+	
+	public void PauseGame() {
+		if(!paused) {
+			Time.timeScale = 0;
+			paused = true;
+		} else {
+			Time.timeScale = 1;
+			paused = false;
+		}
+	}
+	
+	public void MuteSound() {
+		if(!mute) {
+			AudioListener.pause = true;
+			mute = true;
+		} else {
+			AudioListener.pause = false;
+			mute = false;
 		}
 	}
 }
